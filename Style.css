@@ -1,0 +1,208 @@
+
+body{
+    background-color:beige;
+    font-family: Garamond, sans-serif;
+    margin: 1cm;
+    padding: 0;
+}
+
+div{
+ 
+}
+
+.container-navbar{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    background-color: rgb(238, 196, 166);
+    width: 100%;
+    height: fit-content;
+}
+
+
+.ul-navbar {
+    background-color: aliceblue;
+   display: flex;
+    height: 20px;
+    justify-content:right;
+    align-items: center;
+  }
+  
+.li-navbar {
+   border: 1px solid black;
+   list-style-type: none;
+    margin: 2px;
+    color:rgb(114, 70, 39) ;
+    padding: 1px;
+  }
+
+  .li-navbar:hover {
+    background-color:coral;
+    transition: .5s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+  }
+
+  .a-navbar{
+    color: rgb(158, 83, 29);
+    text-decoration: none;
+  }
+
+.container-Foto {
+background-color: beige;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.img-Foto {
+    width: 130px;
+    height: 180px;
+}
+
+.container-Aboutme{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-Aboutme{
+color: rgb(212, 63, 9);
+}
+
+.container-Tabel{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-Tabel{
+
+}
+
+.container-footer {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-p{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-p{
+ 
+}
+
+.container-History{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-History{
+    color: rgb(212, 63, 9);
+}
+
+.phara-History{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-History{
+
+}
+
+.container-Skills{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-Skills{
+    color: rgb(212, 63, 9);
+}
+
+.phara-Skills{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-Skills{
+
+}
+
+.h3-footer{
+
+}
+
+.container-facts{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h4-facts{
+    color: rgb(212, 63, 9);
+}
+
+.phara-facts{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-facts{
+
+}
+
+.container-contact{
+    background-color: rgb(222, 175, 142); 
+    border: 2px solid chocolate;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3-contact{
+    color: rgb(212, 63, 9);
+}
+
+.phara-contact{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-contact{
+
+}
+
+.container-copyrights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.h5-copyrights{
+    font-size: 12px;
+}
